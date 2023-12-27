@@ -35,7 +35,7 @@
 
 ---
 #### 🧬 Tools & Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=tailwind,postman,figma,git,eclipse,vscode,firebase,visualstudio,nextjs,redux,express,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,postman,figma,git,vscode,firebase,visualstudio,nextjs,redux,express,ts,react)](https://skillicons.dev)
 
 ---
 #### 🗄 Database
