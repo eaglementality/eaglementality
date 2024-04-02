@@ -31,7 +31,7 @@
 
 ---
 #### 🦾 Software
-[![My Skills](https://skillicons.dev/icons?i=js,javascript,nodejs,nextjs,react,typescript,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,nextjs,react,typescript,tailwind)](https://skillicons.dev)
 
 ---
 #### 🧬 Tools & Frameworks & Libraries
