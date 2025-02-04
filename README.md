@@ -10,7 +10,7 @@
 
 - 💬 Ask me about ** Backend Development, Web Development, Database Development and integrations, API Integrations,  Javascript, Typescript, React, Next, React Native, and **MERN**
 
-- 📫 How to reach me **jesseowusuyeboah55@gmail.com**
+- 📫 How to reach me **jesseowusuyeboah99@gmail.com**
 <p><br/>&nbsp;</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eaglementality&label=Profile%20views&color=0e75b6&style=flat" alt="eaglementality" /> </p>
