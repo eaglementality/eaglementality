@@ -3,7 +3,6 @@
 
 <img align="right"  alt="Coding" width="480" src="https://github.com/eaglementality/3D-practice/blob/main/3D_Practice/src/assets/MelRibeiro%20-%20Overview.gif">
 
-- 🔭 I’m currently working on **ERP Systems**
 - 🌱 I’m currently learning **and keeping abreast emerging technologies, software trends and applying them to projects**
 
 - 👯 I’m looking to collaborate on **Open Source and real-world experience as a developer**
